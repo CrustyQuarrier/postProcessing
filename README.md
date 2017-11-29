@@ -10,7 +10,7 @@ These scripts have been implemented and tested with linux:
 
 and python:
 
-  Python 3.4.5
+  Python 3.4.5  
   Python 3.6.2
   
 ### Prerequisites
@@ -23,14 +23,14 @@ The following virtual environment modules are required for the superset of all p
 
 pip freeze:
 
-cassandra-driver==3.10
-GDAL==2.2.1
-numpy==1.13.1
-PyYAML==3.12
-requests==2.14.2
-scikit-learn==0.19.0
-scipy==0.19.1
-six==1.11.0
+cassandra-driver==3.10  
+GDAL==2.2.1  
+numpy==1.13.1  
+PyYAML==3.12  
+requests==2.14.2  
+scikit-learn==0.19.0  
+scipy==0.19.1  
+six==1.11.0  
 
 'pip install' can be used to set up the virtual environmet.  For example:
 
@@ -114,7 +114,7 @@ TBD
 
 * **Brian N. Davis** - *Initial work* - [CrustyQuarrier](https://github.com/CrustyQuarrier/postProcessing)
 
-See also the list of contributors(https://github.com/USGS-EROS/lcmap-pyccd/graphs/contributors) who participated in this project.
+See also the list of contributors (https://github.com/USGS-EROS/lcmap-pyccd/graphs/contributors) who participated in this project.
 
 ## License
 
@@ -124,9 +124,9 @@ All USGS open source licensing applies.
 
 ## Acknowledgments
 
-Thanks to:
-David Hill
-Jon Morton
-Clay Austin
-Kelcy Smith
-Calli Jenkerson
+Thanks to:  
+David Hill  
+Jon Morton  
+Clay Austin  
+Kelcy Smith  
+Calli Jenkerson  
