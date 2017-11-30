@@ -95,8 +95,8 @@ Example: change_maps.sh ms 2018.08.18 19 14
 
 Input .json files and output products curretnly assume directory structures of, based on the systems used for product analysis:  
 
-/data2/${USER}/pyccd-results/$site/$tile/$version  
-/lcmap_data/sites/$site/pyccd-results/$tile/$version  
+&nbsp;&nbsp;/data2/${USER}/pyccd-results/$site/$tile/$version  
+&nbsp;&nbsp;/lcmap_data/sites/$site/pyccd-results/$tile/$version  
 
 These should probably be an argument or env var.
 
