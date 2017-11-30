@@ -10,8 +10,9 @@ These scripts have been implemented and tested with linux:
 
 and python:
 
-  - Python 3.4.5  
-  - Python 3.6.2
+
+&nbsp;&nbsp;Python 3.4.5  
+&nbsp;&nbsp;Python 3.6.2
   
 ### Prerequisites
 
@@ -23,14 +24,14 @@ The following virtual environment modules are required for the superset of all p
 
 pip freeze:
 
-  - cassandra-driver==3.10  
-  - GDAL==2.2.1  
-  - numpy==1.13.1  
-  - PyYAML==3.12  
-  - requests==2.14.2  
-  - scikit-learn==0.19.0  
-  - scipy==0.19.1  
-  - six==1.11.0  
+&nbsp;&nbsp;cassandra-driver==3.10  
+&nbsp;&nbsp;GDAL==2.2.1  
+&nbsp;&nbsp;numpy==1.13.1  
+&nbsp;&nbsp;PyYAML==3.12  
+&nbsp;&nbsp;requests==2.14.2  
+&nbsp;&nbsp;scikit-learn==0.19.0  
+&nbsp;&nbsp;scipy==0.19.1  
+&nbsp;&nbsp;six==1.11.0  
 
 'pip install' can be used to set up the virtual environmet.  For example:
 
@@ -125,8 +126,8 @@ All USGS open source licensing applies.
 ## Acknowledgments
 
 Thanks to:  
-David Hill  
-Jon Morton  
-Clay Austin  
-Kelcy Smith  
-Calli Jenkerson  
+&nbsp;&nbsp;David Hill  
+&nbsp;&nbsp;Jon Morton  
+&nbsp;&nbsp;Clay Austin  
+&nbsp;&nbsp;Kelcy Smith  
+&nbsp;&nbsp;Calli Jenkerson  
