@@ -6,7 +6,7 @@ postProcessing contains python and bash shell scripts for creation of visual cha
 
 These scripts have been implemented and tested with linux:
 
-  2.6.32-696.13.2.el6.x86_64 #1 SMP Thu Oct 5 21:22:16 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux
+  - 2.6.32-696.13.2.el6.x86_64 #1 SMP Thu Oct 5 21:22:16 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux
 
 and python:
 
@@ -23,14 +23,14 @@ The following virtual environment modules are required for the superset of all p
 
 pip freeze:
 
-cassandra-driver==3.10  
-GDAL==2.2.1  
-numpy==1.13.1  
-PyYAML==3.12  
-requests==2.14.2  
-scikit-learn==0.19.0  
-scipy==0.19.1  
-six==1.11.0  
+  - cassandra-driver==3.10  
+  - GDAL==2.2.1  
+  numpy==1.13.1  
+  PyYAML==3.12  
+  requests==2.14.2  
+  scikit-learn==0.19.0  
+  scipy==0.19.1  
+  six==1.11.0  
 
 'pip install' can be used to set up the virtual environmet.  For example:
 
