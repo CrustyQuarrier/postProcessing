@@ -63,10 +63,15 @@ The following environment variables must also be defined:
 	
 "options" include:
     "count" to poll the number of complete, in-progress, and incomplete X-Y locations in the tile
-	"request" to initate processing of the tile
-	"retrieve" to download completed results for the tile to the local file system in JSON format
+    "request" to initate processing of the tile
+    "retrieve" to download completed results for the tile to the local file system in JSON format
 ```
-	
+
+A much simpler, limited use capability for downloading .json files can be accomplished by editing and running the following script:
+```
+python firebird_json_results.py
+```
+
 After PyCCD has been completed for an ARD tile, and the results dowloaded from the CASSANDRA data base to a local file system .json file, some Q/A to ensure valud results exist for all 10,000 X-Y locations in the tile can be performed:
 
 ```
